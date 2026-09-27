@@ -1,4 +1,4 @@
-# 💬 NLP Labs
+#  NLP Labs
 
 Travaux pratiques du module de **traitement automatique du langage** (S6) : tokenisation, détection de sarcasme (des sacs de mots aux embeddings) et analyse de sentiment en français, avec un dashboard Flask.
 
